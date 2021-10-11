@@ -1,6 +1,9 @@
 <h1 align="center">I'm Ihsan</h1>
 <h3 align="center">Python Enthusiast | Django Developer</h3>
 
+I am a Python Developer who shares programming goodness with the community❤. I'm enthusiastic about Machine Learning and have an aptitude to learn and contribute to Open Source Community.
+I have 1+ years of industry experience building and deploying web applications. I'm also a Microsoft certified Gold Student Ambassador.
+
 ### I have technical experience and interest in -
 * Python
 * Django
