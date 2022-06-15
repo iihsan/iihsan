@@ -1,7 +1,7 @@
 <h1 align="center">I'm Ihsan</h1>
 <h3 align="center">Python Enthusiast | Django Developer</h3>
 
-I am a Python Developer having an aptitude to learn and contribute to Open Source Community. Inspired Python developer with 1.5 years of experience in retail, finance and education sector. Well-acquainted with web development, database engineering, and DevOps, with willingness to learn and master web development tools. Knowledgeable in web development frameworks such as Django, Django REST, React Js. I'm also a Microsoft certified Gold Student Ambassador. 
+I am a Python Developer having an aptitude to learn and contribute to Open Source Community. Inspired Python developer with 1.5 years of experience in retail, finance and education sector. Well-acquainted with web development, database engineering, and DevOps, with willingness to learn and master web development tools. Knowledgeable in web development frameworks such as Django, Django REST, React Js.
 
 ### I have technical experience and interest in -
 * AWS
