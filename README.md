@@ -1,5 +1,5 @@
 <h1 align="center">I'm Ihsan</h1>
-<h3 align="center">Python Enthusiast | FullStack Developer (AWS, Python, React)</h3>
+<h3 align="center">Python Enthusiast | FullStack Developer (AWS, Django, React)</h3>
 
 I am a Python Developer having an aptitude to learn and contribute to Open Source Community. Passionate and a self-taught Fullstack Developer with 2 years of
 experience in education sector while working for government level
