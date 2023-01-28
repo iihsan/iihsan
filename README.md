@@ -5,8 +5,7 @@ I am a Python Developer having an aptitude to learn and contribute to Open Sourc
 experience in education sector while working for government level
 projects. Well-acquainted with web development, and DevOps, with willingness to learn and master web development tools. Knowledgeable in web development frameworks such as Django, Django REST, React Js.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dosisod&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iihsan&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iihsan&theme=light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### I have technical experience and interest in -
 * AWS EC2
