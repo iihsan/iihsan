@@ -5,8 +5,10 @@ I am a Python Developer having an aptitude to learn and contribute to Open Sourc
 experience in education sector while working for government level
 projects. Well-acquainted with web development, and DevOps, with willingness to learn and master web development tools. Knowledgeable in web development frameworks such as Django, Django REST, React Js.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-panwar&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-iihsan" /> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iihsan&" alt="muhammad-iihsan" /></p>
+<center>
+          <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-panwar&label=Profile%20Views&color=0e75b6&style=flat" alt="muhammad-ihsan" /></p>
+          <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iihsan&" alt="muhammad-iihsan" /></p>
+</center>
 
 ### I have technical experience and interest in -
 * AWS EC2
