@@ -1,4 +1,4 @@
-<h1 align="center">I'm Muhammad Ihsan</h1>
+<h1 align="center">I'm Muhammad Ihsan</h1><p align="left">
 <h3 align="center">Python Developer | AWS Cloud Engineer | FullStack Developer (AWS, Django, React)</h3>
 
 As a highly motivated Python developer with over 3 years of experience, I am dedicated to driving success and continuously pushing the boundaries of what's possible.
@@ -7,11 +7,17 @@ My past experiences show my contribution to an ed-tech startup where I joined as
 
 I'm also a Microsoft certified Gold Student Ambassador.
 
-Get in touch with me! ➡️ [Portfolio](https://iihsan.com) ➡️ [StackOverflow](https://stackoverflow.com/users/13939843/iihsan) ➡️[LinkedIn](https://www.linkedin.com/in/iihsan/)
+#### Portfolio Links- 
 
+[<img align="left" alt="iihsan | Portfolio Site" width="30px" src="https://img.icons8.com/metro/256/domain.png" />][portfolio]
+[<img align="left" alt="iihsan | StackOverflow" width="30px" src="https://img.icons8.com/color/48/000000/stackoverflow.png" />][stackoverflow]
+[<img align="left" alt="iihsan | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="iihsan | Fiverr" width="30px" src="https://img.icons8.com/color/48/000000/fiverr.png" />][fiverr]
+ <br>   
+<br>
 <center>
-          <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-panwar&label=Profile%20Views&color=0e75b6&style=flat" alt="muhammad-ihsan" /></p>
-          <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iihsan&" alt="muhammad-iihsan" /></p>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-panwar&label=Profile%20Views&color=0e75b6&style=flat" alt="muhammad-ihsan" /></p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iihsan&" alt="muhammad-iihsan" /></p>
 </center>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -80,15 +86,6 @@ Get in touch with me! ➡️ [Portfolio](https://iihsan.com) ➡️ [StackOverfl
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/c17hawke/" target="_blank"><br>@c17hawke!</a> on Instagram</p>
 
 <hr> -->
-
-#### You can also find me on- 
-
-[<img align="left" alt="iihsan | Portfolio Site" width="30px" src="https://img.icons8.com/metro/256/domain.png" />][portfolio]
-[<img align="left" alt="iihsan | StackOverflow" width="30px" src="https://img.icons8.com/color/48/000000/stackoverflow.png" />][stackoverflow]
-[<img align="left" alt="iihsan | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="iihsan | Fiverr" width="30px" src="https://img.icons8.com/color/48/000000/fiverr.png" />][fiverr]
-          
-<br>
 
 <hr>
 
