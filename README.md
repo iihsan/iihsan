@@ -7,11 +7,6 @@ My past experiences show my contribution to an ed-tech startup where I joined as
 
 
 #### Portfolio Links- 
-
-[<img align="left" alt="iihsan | Portfolio Site" width="30px" src="https://img.icons8.com/metro/256/domain.png" />][portfolio]
-[<img align="left" alt="iihsan | StackOverflow" width="30px" src="https://img.icons8.com/color/48/000000/stackoverflow.png" />][stackoverflow]
-[<img align="left" alt="iihsan | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="iihsan | Fiverr" width="30px" src="https://img.icons8.com/color/48/000000/fiverr.png" />][fiverr]
  <br>   
 <br>
 <center>
