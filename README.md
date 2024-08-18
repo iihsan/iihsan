@@ -1,9 +1,3 @@
-<h1 align="center">I'm Muhammad Ihsan</h1><p align="left">
-<h3 align="center">Python Developer | AWS Cloud Engineer | FullStack Developer (AWS, Django, React)</h3>
-
-As a highly motivated Python developer with over 3 years of experience, I am dedicated to driving success and continuously pushing the boundaries of what's possible.
-
-My past experiences show my contribution to an ed-tech startup where I joined as a Python Developer and then, quickly advanced to the role of Full-Stack Engineer, showing my aptitude for learning and growth—and later hired by an Inc. 5000 and AHR Expo Award winning company, leading to my current position. My passion for engineering and eagerness to learn and develop makes me a valuable asset to any team.
 
 
 #### Portfolio Links- 
